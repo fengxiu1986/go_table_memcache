@@ -4,9 +4,9 @@ import (
 	"context"
 	"sync"
 
-	"git.yujing.live/Golang/source/log"
-	"git.yujing.live/Golang/source/pkg/database"
-	mredis "git.yujing.live/Golang/source/pkg/database/redis"
+	"git.yj.live/Golang/source/log"
+	"git.yj.live/Golang/source/pkg/database"
+	mredis "git.yj.live/Golang/source/pkg/database/redis"
 	"gorm.io/gorm"
 )
 
